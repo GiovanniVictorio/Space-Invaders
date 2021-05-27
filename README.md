@@ -6,6 +6,6 @@
  
 ## Examen de la unidad 2 para la materia de Graficacion
 
-* Equipo:*
-* Giovanni Michelle Cota Victorio*
-* Luis Angel Almanza Cruz*
+* Equipo:
+* Giovanni Michelle Cota Victorio
+* Luis Angel Almanza Cruz
